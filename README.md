@@ -1,6 +1,6 @@
 **Neathforge - The Home of Neathub Development**
 
-Neathforge is the official GitHub organization for [https://www.neathub.com/], a developer of innovative Software as a Service (SaaS) solutions. Here, you'll find all the open-source code, tools, and resources related to Neathub products and development.
+Neathforge is the official GitHub organization for https://www.neathub.com/, a developer of innovative Software as a Service (SaaS) solutions. Here, you'll find all the open-source code, tools, and resources related to Neathub products and development.
 
 **What you'll find here:**
 
@@ -11,7 +11,7 @@ Neathforge is the official GitHub organization for [https://www.neathub.com/], a
 
 **Stay Connected:**
 
-* Visit our website at [[https://www.neathub.com/]] to learn more about our SaaS offerings.
+* Visit our website at https://www.neathub.com/ to learn more about our SaaS offerings.
 * Engage with the Neathub community by raising issues, suggesting features, or opening pull requests in our repositories.
 
 **We believe in open collaboration and building a strong developer ecosystem around Neathub. Let's forge the future of SaaS together!**
